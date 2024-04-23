@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "toolhead_board")(type "KiCad")(uri "${KIPRJMOD}/toolhead_board.pretty")(options "")(descr ""))
-)

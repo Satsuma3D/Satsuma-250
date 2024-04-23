@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "toolhead_board")(type "KiCad")(uri "${KIPRJMOD}/toolhead_board.kicad_sym")(options "")(descr ""))
-)

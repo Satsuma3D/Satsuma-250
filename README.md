@@ -1,3 +1,2 @@
-# Clementine 240
-
-![Render](Assets/clementine_240_render.png)
+# Satsuma 250
+![Render](Assets/satsuma_250_render.png)
