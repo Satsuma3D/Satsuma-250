@@ -1,2 +1,4 @@
 # Satsuma 250
-![Render](Assets/satsuma_250_render.png)
+![Front Render](Assets/satsuma_250_front_render.png)
+
+![Rear Render](Assets/satsuma_250_rear_render.png)
